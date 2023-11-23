@@ -9,3 +9,4 @@ Pre-appending ``https://gitpod.io/#`` to this repository straight in the address
 
 ## IC-SDK
 https://internetcomputer.org/docs/current/developer-docs/setup/install/
+``sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"``
