@@ -22,3 +22,7 @@ To update your PATH type:
 ``export PATH=~/bin:$PATH``
 
 That's all you need to start with ICP!
+
+Check that IC SDK is installed:
+
+``dfx --Version``
