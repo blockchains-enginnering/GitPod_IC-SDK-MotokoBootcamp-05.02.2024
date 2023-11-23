@@ -25,4 +25,4 @@ That's all you need to start with ICP!
 
 Check that IC SDK is installed:
 
-``dfx --Version``
+``dfx --version``
