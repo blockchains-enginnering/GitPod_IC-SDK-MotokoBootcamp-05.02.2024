@@ -5,7 +5,8 @@ Cloud Development Environment w/Internet Computer SDK
 ### https://gitpod.io/workspaces
 ### https://www.gitpod.io/docs/introduction
 Pre-appending ``https://gitpod.io/#`` to this repository straight in the address bar will create a default cloud development environment. 
-### See it for yourself. Try it out. Now!
+
+See it for yourself. Try it out. Now!
 
 ## IC-SDK setup
 Once your GitPod workspace is up and running follow... 
