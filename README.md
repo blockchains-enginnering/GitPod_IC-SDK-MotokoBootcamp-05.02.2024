@@ -8,7 +8,7 @@ Pre-appending ``https://gitpod.io/#`` to this repository straight in the address
 
 See it for yourself. Try it out. Now!
 
-## IC-SDK setup
+## IC-SDK Setup
 Once your GitPod workspace is up and running follow... 
 
 https://internetcomputer.org/docs/current/developer-docs/setup/install/
