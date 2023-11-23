@@ -9,6 +9,8 @@ Pre-appending ``https://gitpod.io/#`` to this repository straight in the address
 
 ## IC-SDK setup
 Once your GitPod workspace is up and running follow... 
+
 https://internetcomputer.org/docs/current/developer-docs/setup/install/
 
+In your VSCode terminal type: 
 ``sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"``
