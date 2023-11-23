@@ -8,6 +8,8 @@ Pre-appending ``https://gitpod.io/#`` to this repository straight in the address
 ### See it for yourself. Try it out. Now!
 
 ## IC-SDK setup
+Once zour GitPod workspace is up and running...
+
 https://internetcomputer.org/docs/current/developer-docs/setup/install/
 
 ``sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"``
