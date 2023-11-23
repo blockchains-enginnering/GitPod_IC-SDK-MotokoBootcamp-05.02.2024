@@ -17,4 +17,8 @@ In your VSCode terminal type:
 
 ``sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"``
 
+To update your PATH type:
+
+``export PATH=~/bin:$PATH``
+
 That's all you need to start with ICP!
