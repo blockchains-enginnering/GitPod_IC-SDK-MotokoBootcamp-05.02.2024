@@ -31,3 +31,6 @@ https://www.motokobootcamp.com/home
 ### GitHub
 https://github.com/motoko-bootcamp/dao-adventure
 https://github.com/motoko-bootcamp/dao-adventure-training
+
+### GitPod (Motoko Bootcamp)
+https://gitpod.io/#https://github.com/motoko-bootcamp/dao-adventure-training
