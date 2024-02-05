@@ -17,7 +17,7 @@ TODO...
 ## Motoko Bootcamp 05.02.2024
 ### Identity
 |Identity|Principal|Device|
-|---|---|
+|---|---|---|
 |2290278|qr2ni-jcqyn-e7q7x-gfkjz-h7zhk-5dqgp-w642i-nqa6p-xoh5i-3wmkw-jae|Lenovo (LONZA) -> iPhone|
 |2291480|...|Samsung Galaxy Fold 4|
 |2310358|...|iPgone 15 Max Pro|
