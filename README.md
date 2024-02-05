@@ -20,7 +20,7 @@ TODO...
 |---|---|---|
 |2290278|qr2ni-jcqyn-e7q7x-gfkjz-h7zhk-5dqgp-w642i-nqa6p-xoh5i-3wmkw-jae|Lenovo (LONZA) -> iPhone|
 |2291480|2n7zx-gpeqf-ih6lg-wk4dc-fz4vm-lhduj-jc2m3-6ppnc-vjwl3-yo7z3-bae|Samsung Galaxy Fold 4|
-|2310358|...|iPgone 15 Max Pro|
+|2310358|No Registerd on Motoko Bootcamp|iPgone 15 Max Pro|
 
 
 ### Calendar
