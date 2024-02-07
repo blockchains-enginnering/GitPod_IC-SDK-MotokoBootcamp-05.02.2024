@@ -37,3 +37,6 @@ https://studio.twine.nyc/home
 
 ### Awesome IC
 https://github.com/dfinity/awesome-internet-computer?tab=readme-ov-file#storage-and-databases
+
+### DeFi working Group
+https://forum.dfinity.org/t/defi-working-group/27350
