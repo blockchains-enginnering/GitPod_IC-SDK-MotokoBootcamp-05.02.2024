@@ -35,4 +35,5 @@ https://gitpod.io/#https://github.com/motoko-bootcamp/dao-adventure-training
 ### Twime (logged as hello@blockchains.engineering
 https://studio.twine.nyc/home
 
-
+### Awesome IC
+https://github.com/dfinity/awesome-internet-computer?tab=readme-ov-file#storage-and-databases
